@@ -45,10 +45,14 @@ The project includes **Windows font paths** by default.
 
 For macOS users, a commented-out macOS font map is included inside save_img() they can simply uncomment it.
 
+---
+
 ##📝 Known Limitations
 • Watermark preview may not match exact pixel scaling (due to canvas resizing)
 • Rotated text might shift slightly depending on font metrics
 • Font availability depends on the OS
+
+---
 
 ##🤝 Contributions
 Pull requests are welcome!
@@ -56,8 +60,12 @@ Pull requests are welcome!
 • Report issues
 • Suggest new features
 
+---
+
 ##📄 Licensing
 The project is open-source under the MIT License
+
+---
 
 ##⭐ A Note from the Creator
 This Watermark App was built to combine simplicity with professional-level watermarking features — clean, intuitive, and effective.
